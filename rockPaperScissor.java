@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
-public class exercise2 {
+public class rockPaperScissor {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("\t\t***************************************"); 
